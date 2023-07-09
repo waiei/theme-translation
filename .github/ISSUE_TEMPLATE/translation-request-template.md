@@ -1,7 +1,7 @@
 ---
 name: Translation Request Template
 about: This is the basic template for creating a translation issue.
-title: "[Target] Section name"
+title: "[Target] issue title"
 labels: ''
 assignees: waiei
 
